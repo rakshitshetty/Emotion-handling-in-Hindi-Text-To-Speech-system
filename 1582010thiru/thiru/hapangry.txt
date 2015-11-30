@@ -1,0 +1,4 @@
+thi.wav  
+ru.wav   
+v.wav    
+na.wav   

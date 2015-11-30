@@ -1,0 +1,8 @@
+thi.wav  
+sil.wav
+ru.wav   
+sil.wav
+v.wav    
+sil.wav
+na.wav   
+sil.wav
